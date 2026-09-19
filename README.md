@@ -1,9 +1,6 @@
 # Hey, I'm Nirmal Singh 👋
 
 ### AI/ML Engineer | Generative AI & LLM Developer
-
-[![Nirmal's profile views](https://komarev.com/ghpvc/?username=itsapexdanav&label=Profile%20views&color=0FFFFF&style=flat-square)](https://github.com/itsapexdanav)
-
 ## 📌 About Me
 
 AI/ML enthusiast focused on building practical and research-oriented AI systems. Currently exploring Generative AI, LLM applications, RAG pipelines, agentic systems, and context-aware AI architectures.
