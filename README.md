@@ -1,4 +1,4 @@
-# Hey, I'm Nirmal Singh 👋
+# Hey, I'm Apex Danav 👋
 
 ### AI/ML Engineer | Generative AI & LLM Developer
 ## 📌 About Me
